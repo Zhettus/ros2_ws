@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: rosbot-bringup
+Version: 0.8.2
+Summary: ROSbot Series bringup package
+Maintainer: Husarion
+Maintainer-email: contact@husarion.com
+License: Apache License 2.0

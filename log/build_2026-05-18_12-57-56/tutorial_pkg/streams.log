@@ -1,0 +1,13 @@
+[0.016s] Invoking command in '/home/zhettus/ros2_ws/build/tutorial_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zhettus/rosbot_ws/install/rosbot_controller:/home/zhettus/rosbot_ws/install/rosbot_utils:/home/zhettus/rosbot_ws/install/rosbot_gazebo:/home/zhettus/rosbot_ws/install/rosbot_bringup:/home/zhettus/ros2_ws/install/rosbot_utils:/home/zhettus/ros2_ws/install/rosbot_gazebo:/home/zhettus/ros2_ws/install/rosbot_controller:/home/zhettus/ros2_ws/install/rosbot_bringup:/opt/ros/jazzy /usr/bin/cmake --build /home/zhettus/ros2_ws/build/tutorial_pkg -- -j6 -l6
+[0.104s] [ 25%] Built target my_first_node
+[0.128s] [ 50%] Built target tf_listener
+[0.159s] [ 75%] Built target tf_broadcaster
+[0.196s] [ 87%] [32mBuilding CXX object CMakeFiles/tracker.dir/src/tracker.cpp.o[0m
+[0.682s] [01m[K/home/zhettus/ros2_ws/src/tutorial_pkg/src/tracker.cpp:2:10:[m[K [01;31m[Kfatal error: [m[Kcv_bridge/cv_bridge.h: No such file or directory
+[0.682s]     2 | #include [01;31m[K<cv_bridge/cv_bridge.h>[m[K
+[0.683s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~[m[K
+[0.683s] compilation terminated.
+[0.692s] gmake[2]: *** [CMakeFiles/tracker.dir/build.make:76: CMakeFiles/tracker.dir/src/tracker.cpp.o] Error 1
+[0.692s] gmake[1]: *** [CMakeFiles/Makefile2:169: CMakeFiles/tracker.dir/all] Error 2
+[0.692s] gmake: *** [Makefile:146: all] Error 2
+[0.694s] Invoked command in '/home/zhettus/ros2_ws/build/tutorial_pkg' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zhettus/rosbot_ws/install/rosbot_controller:/home/zhettus/rosbot_ws/install/rosbot_utils:/home/zhettus/rosbot_ws/install/rosbot_gazebo:/home/zhettus/rosbot_ws/install/rosbot_bringup:/home/zhettus/ros2_ws/install/rosbot_utils:/home/zhettus/ros2_ws/install/rosbot_gazebo:/home/zhettus/ros2_ws/install/rosbot_controller:/home/zhettus/ros2_ws/install/rosbot_bringup:/opt/ros/jazzy /usr/bin/cmake --build /home/zhettus/ros2_ws/build/tutorial_pkg -- -j6 -l6

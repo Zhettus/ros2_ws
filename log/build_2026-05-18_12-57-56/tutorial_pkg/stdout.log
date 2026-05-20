@@ -1,0 +1,4 @@
+[ 25%] Built target my_first_node
+[ 50%] Built target tf_listener
+[ 75%] Built target tf_broadcaster
+[ 87%] [32mBuilding CXX object CMakeFiles/tracker.dir/src/tracker.cpp.o[0m

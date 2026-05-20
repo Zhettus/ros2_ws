@@ -1,0 +1,11 @@
+[ 25%] Built target my_first_node
+[ 37%] [32mBuilding CXX object CMakeFiles/tracker.dir/src/tracker.cpp.o[0m
+[ 62%] Built target tf_broadcaster
+[ 87%] Built target tf_listener
+[01m[K/home/zhettus/ros2_ws/src/tutorial_pkg/src/tracker.cpp:2:10:[m[K [01;31m[Kfatal error: [m[Kcv_bridge/cv_bridge.h: No such file or directory
+    2 | #include [01;31m[K<cv_bridge/cv_bridge.h>[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+gmake[2]: *** [CMakeFiles/tracker.dir/build.make:76: CMakeFiles/tracker.dir/src/tracker.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:169: CMakeFiles/tracker.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

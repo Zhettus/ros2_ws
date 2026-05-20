@@ -1,0 +1,17 @@
+[1.566s] Invoking command in '/home/zhettus/ros2_ws/src/rosbot_xl_ros/rosbot_gazebo': PYTHONPATH=/home/zhettus/ros2_ws/build/rosbot_gazebo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhettus/ros2_ws/install/rosbot_gazebo/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/rosbot_gazebo build --build-base /home/zhettus/ros2_ws/build/rosbot_gazebo/build install --record /home/zhettus/ros2_ws/build/rosbot_gazebo/install.log --single-version-externally-managed install_data
+[1.803s] running egg_info
+[1.824s] writing ../../../build/rosbot_gazebo/rosbot_gazebo.egg-info/PKG-INFO
+[1.825s] writing dependency_links to ../../../build/rosbot_gazebo/rosbot_gazebo.egg-info/dependency_links.txt
+[1.826s] writing requirements to ../../../build/rosbot_gazebo/rosbot_gazebo.egg-info/requires.txt
+[1.826s] writing top-level names to ../../../build/rosbot_gazebo/rosbot_gazebo.egg-info/top_level.txt
+[1.851s] reading manifest file '../../../build/rosbot_gazebo/rosbot_gazebo.egg-info/SOURCES.txt'
+[1.853s] writing manifest file '../../../build/rosbot_gazebo/rosbot_gazebo.egg-info/SOURCES.txt'
+[1.853s] running build
+[1.853s] running install
+[1.868s] running install_data
+[1.869s] running install_egg_info
+[1.917s] removing '/home/zhettus/ros2_ws/install/rosbot_gazebo/lib/python3.12/site-packages/rosbot_gazebo-0.8.2-py3.12.egg-info' (and everything under it)
+[1.918s] Copying ../../../build/rosbot_gazebo/rosbot_gazebo.egg-info to /home/zhettus/ros2_ws/install/rosbot_gazebo/lib/python3.12/site-packages/rosbot_gazebo-0.8.2-py3.12.egg-info
+[1.922s] running install_scripts
+[2.097s] writing list of installed files to '/home/zhettus/ros2_ws/build/rosbot_gazebo/install.log'
+[2.136s] Invoked command in '/home/zhettus/ros2_ws/src/rosbot_xl_ros/rosbot_gazebo' returned '0': PYTHONPATH=/home/zhettus/ros2_ws/build/rosbot_gazebo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhettus/ros2_ws/install/rosbot_gazebo/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/rosbot_gazebo build --build-base /home/zhettus/ros2_ws/build/rosbot_gazebo/build install --record /home/zhettus/ros2_ws/build/rosbot_gazebo/install.log --single-version-externally-managed install_data

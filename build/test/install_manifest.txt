@@ -1,0 +1,16 @@
+/home/zhettus/ros2_ws/install/test/lib/test/tf_broadcaster
+/home/zhettus/ros2_ws/install/test/share/ament_index/resource_index/package_run_dependencies/test
+/home/zhettus/ros2_ws/install/test/share/ament_index/resource_index/parent_prefix_path/test
+/home/zhettus/ros2_ws/install/test/share/test/environment/ament_prefix_path.sh
+/home/zhettus/ros2_ws/install/test/share/test/environment/ament_prefix_path.dsv
+/home/zhettus/ros2_ws/install/test/share/test/environment/path.sh
+/home/zhettus/ros2_ws/install/test/share/test/environment/path.dsv
+/home/zhettus/ros2_ws/install/test/share/test/local_setup.bash
+/home/zhettus/ros2_ws/install/test/share/test/local_setup.sh
+/home/zhettus/ros2_ws/install/test/share/test/local_setup.zsh
+/home/zhettus/ros2_ws/install/test/share/test/local_setup.dsv
+/home/zhettus/ros2_ws/install/test/share/test/package.dsv
+/home/zhettus/ros2_ws/install/test/share/ament_index/resource_index/packages/test
+/home/zhettus/ros2_ws/install/test/share/test/cmake/testConfig.cmake
+/home/zhettus/ros2_ws/install/test/share/test/cmake/testConfig-version.cmake
+/home/zhettus/ros2_ws/install/test/share/test/package.xml

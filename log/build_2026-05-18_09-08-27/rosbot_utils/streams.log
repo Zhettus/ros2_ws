@@ -1,0 +1,48 @@
+[0.783s] Invoking command in '/home/zhettus/ros2_ws/src/rosbot_xl_ros/rosbot_utils': PYTHONPATH=/home/zhettus/ros2_ws/build/rosbot_utils/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhettus/ros2_ws/install/rosbot_utils/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/rosbot_utils build --build-base /home/zhettus/ros2_ws/build/rosbot_utils/build install --record /home/zhettus/ros2_ws/build/rosbot_utils/install.log --single-version-externally-managed install_data
+[0.931s] running egg_info
+[0.932s] creating ../../../build/rosbot_utils/rosbot_utils.egg-info
+[0.940s] writing ../../../build/rosbot_utils/rosbot_utils.egg-info/PKG-INFO
+[0.941s] writing dependency_links to ../../../build/rosbot_utils/rosbot_utils.egg-info/dependency_links.txt
+[0.941s] writing entry points to ../../../build/rosbot_utils/rosbot_utils.egg-info/entry_points.txt
+[0.941s] writing requirements to ../../../build/rosbot_utils/rosbot_utils.egg-info/requires.txt
+[0.941s] writing top-level names to ../../../build/rosbot_utils/rosbot_utils.egg-info/top_level.txt
+[0.941s] writing manifest file '../../../build/rosbot_utils/rosbot_utils.egg-info/SOURCES.txt'
+[0.963s] reading manifest file '../../../build/rosbot_utils/rosbot_utils.egg-info/SOURCES.txt'
+[0.963s] writing manifest file '../../../build/rosbot_utils/rosbot_utils.egg-info/SOURCES.txt'
+[0.963s] running build
+[0.963s] running build_py
+[0.963s] creating /home/zhettus/ros2_ws/build/rosbot_utils/build
+[0.963s] creating /home/zhettus/ros2_ws/build/rosbot_utils/build/lib
+[0.963s] creating /home/zhettus/ros2_ws/build/rosbot_utils/build/lib/rosbot_utils
+[0.963s] copying rosbot_utils/flash_firmware_usb.py -> /home/zhettus/ros2_ws/build/rosbot_utils/build/lib/rosbot_utils
+[0.964s] copying rosbot_utils/__init__.py -> /home/zhettus/ros2_ws/build/rosbot_utils/build/lib/rosbot_utils
+[0.964s] copying rosbot_utils/flash_firmware_uart.py -> /home/zhettus/ros2_ws/build/rosbot_utils/build/lib/rosbot_utils
+[0.964s] copying rosbot_utils/flash_firmware.py -> /home/zhettus/ros2_ws/build/rosbot_utils/build/lib/rosbot_utils
+[0.964s] running install
+[0.968s] running install_lib
+[0.978s] creating /home/zhettus/ros2_ws/install/rosbot_utils/lib/python3.12/site-packages/rosbot_utils
+[0.978s] copying /home/zhettus/ros2_ws/build/rosbot_utils/build/lib/rosbot_utils/flash_firmware_usb.py -> /home/zhettus/ros2_ws/install/rosbot_utils/lib/python3.12/site-packages/rosbot_utils
+[0.979s] copying /home/zhettus/ros2_ws/build/rosbot_utils/build/lib/rosbot_utils/__init__.py -> /home/zhettus/ros2_ws/install/rosbot_utils/lib/python3.12/site-packages/rosbot_utils
+[0.979s] copying /home/zhettus/ros2_ws/build/rosbot_utils/build/lib/rosbot_utils/flash_firmware_uart.py -> /home/zhettus/ros2_ws/install/rosbot_utils/lib/python3.12/site-packages/rosbot_utils
+[0.979s] copying /home/zhettus/ros2_ws/build/rosbot_utils/build/lib/rosbot_utils/flash_firmware.py -> /home/zhettus/ros2_ws/install/rosbot_utils/lib/python3.12/site-packages/rosbot_utils
+[0.979s] byte-compiling /home/zhettus/ros2_ws/install/rosbot_utils/lib/python3.12/site-packages/rosbot_utils/flash_firmware_usb.py to flash_firmware_usb.cpython-312.pyc
+[0.980s] byte-compiling /home/zhettus/ros2_ws/install/rosbot_utils/lib/python3.12/site-packages/rosbot_utils/__init__.py to __init__.cpython-312.pyc
+[0.980s] byte-compiling /home/zhettus/ros2_ws/install/rosbot_utils/lib/python3.12/site-packages/rosbot_utils/flash_firmware_uart.py to flash_firmware_uart.cpython-312.pyc
+[0.980s] byte-compiling /home/zhettus/ros2_ws/install/rosbot_utils/lib/python3.12/site-packages/rosbot_utils/flash_firmware.py to flash_firmware.cpython-312.pyc
+[0.981s] running install_data
+[0.982s] creating /home/zhettus/ros2_ws/install/rosbot_utils/share/ament_index
+[0.982s] creating /home/zhettus/ros2_ws/install/rosbot_utils/share/ament_index/resource_index
+[0.982s] creating /home/zhettus/ros2_ws/install/rosbot_utils/share/ament_index/resource_index/packages
+[0.982s] copying resource/rosbot_utils -> /home/zhettus/ros2_ws/install/rosbot_utils/share/ament_index/resource_index/packages
+[0.982s] copying package.xml -> /home/zhettus/ros2_ws/install/rosbot_utils/share/rosbot_utils
+[0.982s] creating /home/zhettus/ros2_ws/install/rosbot_utils/share/rosbot_utils/firmware
+[0.982s] creating /home/zhettus/ros2_ws/install/rosbot_utils/share/rosbot_utils/firmware/rosbot
+[0.982s] copying firmware/rosbot/range_laserscan_fix.bin -> /home/zhettus/ros2_ws/install/rosbot_utils/share/rosbot_utils/firmware/rosbot
+[0.982s] creating /home/zhettus/ros2_ws/install/rosbot_utils/share/rosbot_utils/firmware/rosbot_xl
+[0.982s] copying firmware/rosbot/range_laserscan_fix.bin -> /home/zhettus/ros2_ws/install/rosbot_utils/share/rosbot_utils/firmware/rosbot_xl
+[0.982s] running install_egg_info
+[0.996s] Copying ../../../build/rosbot_utils/rosbot_utils.egg-info to /home/zhettus/ros2_ws/install/rosbot_utils/lib/python3.12/site-packages/rosbot_utils-0.0.0-py3.12.egg-info
+[0.997s] running install_scripts
+[1.085s] Installing flash_firmware script to /home/zhettus/ros2_ws/install/rosbot_utils/lib/rosbot_utils
+[1.085s] writing list of installed files to '/home/zhettus/ros2_ws/build/rosbot_utils/install.log'
+[1.108s] Invoked command in '/home/zhettus/ros2_ws/src/rosbot_xl_ros/rosbot_utils' returned '0': PYTHONPATH=/home/zhettus/ros2_ws/build/rosbot_utils/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhettus/ros2_ws/install/rosbot_utils/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/rosbot_utils build --build-base /home/zhettus/ros2_ws/build/rosbot_utils/build install --record /home/zhettus/ros2_ws/build/rosbot_utils/install.log --single-version-externally-managed install_data

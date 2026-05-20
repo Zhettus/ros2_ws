@@ -1,0 +1,2 @@
+Invoking command in '/home/zhettus/ros2_ws/build/tutorial_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/zhettus/ros2_ws/build/tutorial_pkg -- -j6 -l6
+Invoked command in '/home/zhettus/ros2_ws/build/tutorial_pkg' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/zhettus/ros2_ws/build/tutorial_pkg -- -j6 -l6

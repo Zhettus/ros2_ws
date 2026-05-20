@@ -1,0 +1,14 @@
+/home/zhettus/ros2_ws/install/rosbot_controller/share/ament_index/resource_index/packages/rosbot_controller
+/home/zhettus/ros2_ws/install/rosbot_controller/share/rosbot_controller/package.xml
+/home/zhettus/ros2_ws/install/rosbot_controller/share/rosbot_controller/config
+/home/zhettus/ros2_ws/install/rosbot_controller/share/rosbot_controller/config/rosbot/mecanum_drive_controller.yaml
+/home/zhettus/ros2_ws/install/rosbot_controller/share/rosbot_controller/config/rosbot/diff_drive_controller.yaml
+/home/zhettus/ros2_ws/install/rosbot_controller/share/rosbot_controller/config/rosbot_xl/mecanum_drive_controller.yaml
+/home/zhettus/ros2_ws/install/rosbot_controller/share/rosbot_controller/config/rosbot_xl/diff_drive_controller.yaml
+/home/zhettus/ros2_ws/install/rosbot_controller/share/rosbot_controller/launch/controller.launch.py
+/home/zhettus/ros2_ws/install/rosbot_controller/lib/python3.12/site-packages/rosbot_controller-0.8.2-py3.12.egg-info/dependency_links.txt
+/home/zhettus/ros2_ws/install/rosbot_controller/lib/python3.12/site-packages/rosbot_controller-0.8.2-py3.12.egg-info/top_level.txt
+/home/zhettus/ros2_ws/install/rosbot_controller/lib/python3.12/site-packages/rosbot_controller-0.8.2-py3.12.egg-info/zip-safe
+/home/zhettus/ros2_ws/install/rosbot_controller/lib/python3.12/site-packages/rosbot_controller-0.8.2-py3.12.egg-info/requires.txt
+/home/zhettus/ros2_ws/install/rosbot_controller/lib/python3.12/site-packages/rosbot_controller-0.8.2-py3.12.egg-info/PKG-INFO
+/home/zhettus/ros2_ws/install/rosbot_controller/lib/python3.12/site-packages/rosbot_controller-0.8.2-py3.12.egg-info/SOURCES.txt

@@ -1,0 +1,134 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Configuring done (0.4s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/zhettus/ros2_ws/build/husarion_gz_worlds
+-- Install configuration: ""
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/config
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/config/teleop.config
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/launch
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/launch/gz_sim.launch.py
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Door
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Door/meshes
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Door/meshes/door.stl
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Door/model.config
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Door/model.sdf
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/ConferenceTable
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/ConferenceTable/meshes
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/ConferenceTable/meshes/conference_table.stl
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/ConferenceTable/model.config
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/ConferenceTable/model.sdf
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Tv
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Tv/meshes
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Tv/meshes/tv.stl
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Tv/model.config
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Tv/model.sdf
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Kitchen
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Kitchen/meshes
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Kitchen/meshes/kitchen.stl
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Kitchen/model.config
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Kitchen/model.sdf
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/HusarionLogo
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/HusarionLogo/meshes
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/HusarionLogo/meshes/husarion_logo.dae
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Laptop
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Laptop/meshes
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Laptop/meshes/laptop.stl
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Laptop/model.config
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Laptop/model.sdf
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Rosbot
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Rosbot/meshes
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Rosbot/meshes/box.dae
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Rosbot/meshes/astra.dae
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Rosbot/meshes/rplidar.dae
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Rosbot/meshes/upper.dae
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Rosbot/meshes/wheel.dae
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Rosbot/model.config
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Rosbot/model.sdf
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_4.obj
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/wall_1.mtl
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_10.obj
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/white_tiles.png
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_3.mtl
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_12.mtl
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_2.obj
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_1.obj
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_1.mtl
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_9.mtl
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_4.mtl
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_3.obj
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/black_concrete.png
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_2.mtl
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_7.obj
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_8.obj
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_10.mtl
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_12.obj
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/white_wall.png
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/white_carpet.png
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_6.mtl
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_5.obj
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_6.obj
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_11.obj
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/wood2.png
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/wall_2.mtl
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_11.mtl
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/wall_1.obj
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_9.obj
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_7.mtl
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_14.mtl
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_13.mtl
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/wood1.png
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_5.mtl
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/wall_2.obj
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/model.material
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_13.obj
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_14.obj
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_8.mtl
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/model.config
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/model.sdf
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/WaterDispenser
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/WaterDispenser/meshes
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/WaterDispenser/meshes/water_dispenser.dae
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/WaterDispenser/model.config
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/WaterDispenser/model.sdf
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/worlds
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/worlds/rubicon.sdf
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/worlds/cave.sdf
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/worlds/sonoma_raceway.sdf
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/worlds/empty_with_plugins.sdf
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/worlds/husarion_world.sdf
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/worlds/husarion_office.sdf
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/maps
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/maps/husarion_world.yaml
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/maps/husarion_world.pgm
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/environment/husarion_gz_worlds.sh
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/ament_index/resource_index/package_run_dependencies/husarion_gz_worlds
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/ament_index/resource_index/parent_prefix_path/husarion_gz_worlds
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/environment/ament_prefix_path.sh
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/environment/ament_prefix_path.dsv
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/environment/path.sh
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/environment/path.dsv
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/local_setup.bash
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/local_setup.sh
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/local_setup.zsh
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/local_setup.dsv
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/package.dsv
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/ament_index/resource_index/packages/husarion_gz_worlds
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/cmake/husarion_gz_worldsConfig.cmake
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/cmake/husarion_gz_worldsConfig-version.cmake
+-- Installing: /home/zhettus/ros2_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/package.xml

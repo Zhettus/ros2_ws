@@ -1,0 +1,17 @@
+[1.567s] Invoking command in '/home/zhettus/ros2_ws/src/rosbot_xl_ros/rosbot_bringup': PYTHONPATH=/home/zhettus/ros2_ws/build/rosbot_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhettus/ros2_ws/install/rosbot_bringup/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/rosbot_bringup build --build-base /home/zhettus/ros2_ws/build/rosbot_bringup/build install --record /home/zhettus/ros2_ws/build/rosbot_bringup/install.log --single-version-externally-managed install_data
+[1.824s] running egg_info
+[1.842s] writing ../../../build/rosbot_bringup/rosbot_bringup.egg-info/PKG-INFO
+[1.843s] writing dependency_links to ../../../build/rosbot_bringup/rosbot_bringup.egg-info/dependency_links.txt
+[1.843s] writing requirements to ../../../build/rosbot_bringup/rosbot_bringup.egg-info/requires.txt
+[1.843s] writing top-level names to ../../../build/rosbot_bringup/rosbot_bringup.egg-info/top_level.txt
+[1.856s] reading manifest file '../../../build/rosbot_bringup/rosbot_bringup.egg-info/SOURCES.txt'
+[1.858s] writing manifest file '../../../build/rosbot_bringup/rosbot_bringup.egg-info/SOURCES.txt'
+[1.859s] running build
+[1.859s] running install
+[1.864s] running install_data
+[1.864s] running install_egg_info
+[1.894s] removing '/home/zhettus/ros2_ws/install/rosbot_bringup/lib/python3.12/site-packages/rosbot_bringup-0.8.2-py3.12.egg-info' (and everything under it)
+[1.895s] Copying ../../../build/rosbot_bringup/rosbot_bringup.egg-info to /home/zhettus/ros2_ws/install/rosbot_bringup/lib/python3.12/site-packages/rosbot_bringup-0.8.2-py3.12.egg-info
+[1.899s] running install_scripts
+[2.053s] writing list of installed files to '/home/zhettus/ros2_ws/build/rosbot_bringup/install.log'
+[2.088s] Invoked command in '/home/zhettus/ros2_ws/src/rosbot_xl_ros/rosbot_bringup' returned '0': PYTHONPATH=/home/zhettus/ros2_ws/build/rosbot_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhettus/ros2_ws/install/rosbot_bringup/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/rosbot_bringup build --build-base /home/zhettus/ros2_ws/build/rosbot_bringup/build install --record /home/zhettus/ros2_ws/build/rosbot_bringup/install.log --single-version-externally-managed install_data

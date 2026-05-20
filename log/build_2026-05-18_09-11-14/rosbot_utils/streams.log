@@ -1,0 +1,21 @@
+[0.737s] Invoking command in '/home/zhettus/ros2_ws/src/rosbot_xl_ros/rosbot_utils': PYTHONPATH=/home/zhettus/ros2_ws/build/rosbot_utils/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhettus/ros2_ws/install/rosbot_utils/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/rosbot_utils build --build-base /home/zhettus/ros2_ws/build/rosbot_utils/build install --record /home/zhettus/ros2_ws/build/rosbot_utils/install.log --single-version-externally-managed install_data
+[0.884s] running egg_info
+[0.893s] writing ../../../build/rosbot_utils/rosbot_utils.egg-info/PKG-INFO
+[0.894s] writing dependency_links to ../../../build/rosbot_utils/rosbot_utils.egg-info/dependency_links.txt
+[0.894s] writing entry points to ../../../build/rosbot_utils/rosbot_utils.egg-info/entry_points.txt
+[0.894s] writing requirements to ../../../build/rosbot_utils/rosbot_utils.egg-info/requires.txt
+[0.894s] writing top-level names to ../../../build/rosbot_utils/rosbot_utils.egg-info/top_level.txt
+[0.916s] reading manifest file '../../../build/rosbot_utils/rosbot_utils.egg-info/SOURCES.txt'
+[0.917s] writing manifest file '../../../build/rosbot_utils/rosbot_utils.egg-info/SOURCES.txt'
+[0.917s] running build
+[0.917s] running build_py
+[0.917s] running install
+[0.921s] running install_lib
+[0.932s] running install_data
+[0.932s] running install_egg_info
+[0.944s] removing '/home/zhettus/ros2_ws/install/rosbot_utils/lib/python3.12/site-packages/rosbot_utils-0.0.0-py3.12.egg-info' (and everything under it)
+[0.944s] Copying ../../../build/rosbot_utils/rosbot_utils.egg-info to /home/zhettus/ros2_ws/install/rosbot_utils/lib/python3.12/site-packages/rosbot_utils-0.0.0-py3.12.egg-info
+[0.944s] running install_scripts
+[1.034s] Installing flash_firmware script to /home/zhettus/ros2_ws/install/rosbot_utils/lib/rosbot_utils
+[1.034s] writing list of installed files to '/home/zhettus/ros2_ws/build/rosbot_utils/install.log'
+[1.055s] Invoked command in '/home/zhettus/ros2_ws/src/rosbot_xl_ros/rosbot_utils' returned '0': PYTHONPATH=/home/zhettus/ros2_ws/build/rosbot_utils/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhettus/ros2_ws/install/rosbot_utils/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/rosbot_utils build --build-base /home/zhettus/ros2_ws/build/rosbot_utils/build install --record /home/zhettus/ros2_ws/build/rosbot_utils/install.log --single-version-externally-managed install_data

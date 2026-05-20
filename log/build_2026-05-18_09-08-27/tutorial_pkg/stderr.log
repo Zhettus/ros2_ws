@@ -1,0 +1,12 @@
+[01m[K/home/zhettus/ros2_ws/src/tutorial_pkg/src/tracker.cpp:2:10:[m[K [01;31m[Kfatal error: [m[Kcv_bridge/cv_bridge.h: No such file or directory
+    2 | #include [01;31m[K<cv_bridge/cv_bridge.h>[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+gmake[2]: *** [CMakeFiles/tracker.dir/build.make:76: CMakeFiles/tracker.dir/src/tracker.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:169: CMakeFiles/tracker.dir/all] Error 2
+gmake[1]: *** Waiting for unfinished jobs....
+[01m[K/home/zhettus/ros2_ws/src/tutorial_pkg/src/my_first_node.cpp:[m[K In member function ‘[01m[Kvoid MyNode::[01;32m[Kcounter_callback[m[K(std_srvs::srv::Trigger_Request_<std::allocator<void> >::SharedPtr, std_srvs::srv::Trigger_Response_<std::allocator<void> >::SharedPtr)[m[K’:
+[01m[K/home/zhettus/ros2_ws/src/tutorial_pkg/src/my_first_node.cpp:61:54:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kreq[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   61 |     [01;35m[Kconst std_srvs::srv::Trigger::Request::SharedPtr req[m[K,
+      |     [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~[m[K
+gmake: *** [Makefile:146: all] Error 2

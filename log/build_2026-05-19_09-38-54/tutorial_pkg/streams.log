@@ -1,0 +1,29 @@
+[0.058s] Invoking command in '/home/zhettus/ros2_ws/build/tutorial_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zhettus/rosbot_ws/install/rosbot_controller:/home/zhettus/rosbot_ws/install/rosbot_utils:/home/zhettus/rosbot_ws/install/rosbot_gazebo:/home/zhettus/rosbot_ws/install/rosbot_bringup:/home/zhettus/ros2_ws/install/rosbot_utils:/home/zhettus/ros2_ws/install/rosbot_gazebo:/home/zhettus/ros2_ws/install/rosbot_controller:/home/zhettus/ros2_ws/install/rosbot_bringup:/opt/ros/jazzy /usr/bin/cmake --build /home/zhettus/ros2_ws/build/tutorial_pkg -- -j6 -l6
+[0.264s] Invoked command in '/home/zhettus/ros2_ws/build/tutorial_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zhettus/rosbot_ws/install/rosbot_controller:/home/zhettus/rosbot_ws/install/rosbot_utils:/home/zhettus/rosbot_ws/install/rosbot_gazebo:/home/zhettus/rosbot_ws/install/rosbot_bringup:/home/zhettus/ros2_ws/install/rosbot_utils:/home/zhettus/ros2_ws/install/rosbot_gazebo:/home/zhettus/ros2_ws/install/rosbot_controller:/home/zhettus/ros2_ws/install/rosbot_bringup:/opt/ros/jazzy /usr/bin/cmake --build /home/zhettus/ros2_ws/build/tutorial_pkg -- -j6 -l6
+[0.264s] Invoking command in '/home/zhettus/ros2_ws/build/tutorial_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zhettus/rosbot_ws/install/rosbot_controller:/home/zhettus/rosbot_ws/install/rosbot_utils:/home/zhettus/rosbot_ws/install/rosbot_gazebo:/home/zhettus/rosbot_ws/install/rosbot_bringup:/home/zhettus/ros2_ws/install/rosbot_utils:/home/zhettus/ros2_ws/install/rosbot_gazebo:/home/zhettus/ros2_ws/install/rosbot_controller:/home/zhettus/ros2_ws/install/rosbot_bringup:/opt/ros/jazzy /usr/bin/cmake --install /home/zhettus/ros2_ws/build/tutorial_pkg
+[0.275s] -- Install configuration: ""
+[0.288s] -- Execute custom install script
+[0.288s] -- Up-to-date symlink: /home/zhettus/ros2_ws/install/tutorial_pkg/share/tutorial_pkg/launch/amcl.launch.py
+[0.289s] -- Up-to-date symlink: /home/zhettus/ros2_ws/install/tutorial_pkg/share/tutorial_pkg/launch/config.amcl.yaml
+[0.289s] -- Symlinking: /home/zhettus/ros2_ws/install/tutorial_pkg/share/tutorial_pkg/launch/localization.launch.py
+[0.296s] -- Up-to-date symlink: /home/zhettus/ros2_ws/install/tutorial_pkg/share/tutorial_pkg/launch/slam.launch.py
+[0.296s] -- Up-to-date symlink: /home/zhettus/ros2_ws/install/tutorial_pkg/share/tutorial_pkg/maps/map.pgm
+[0.297s] -- Up-to-date symlink: /home/zhettus/ros2_ws/install/tutorial_pkg/share/tutorial_pkg/maps/map.yaml
+[0.304s] -- Symlinking: /home/zhettus/ros2_ws/install/tutorial_pkg/share/tutorial_pkg/config/navigation.yaml
+[0.329s] -- Up-to-date symlink: /home/zhettus/ros2_ws/install/tutorial_pkg/share/tutorial_pkg/config/slam.yaml
+[0.329s] -- Up-to-date symlink: /home/zhettus/ros2_ws/install/tutorial_pkg/share/ament_index/resource_index/package_run_dependencies/tutorial_pkg
+[0.329s] -- Up-to-date symlink: /home/zhettus/ros2_ws/install/tutorial_pkg/share/ament_index/resource_index/parent_prefix_path/tutorial_pkg
+[0.329s] -- Up-to-date symlink: /home/zhettus/ros2_ws/install/tutorial_pkg/share/tutorial_pkg/environment/ament_prefix_path.sh
+[0.329s] -- Up-to-date symlink: /home/zhettus/ros2_ws/install/tutorial_pkg/share/tutorial_pkg/environment/ament_prefix_path.dsv
+[0.329s] -- Up-to-date symlink: /home/zhettus/ros2_ws/install/tutorial_pkg/share/tutorial_pkg/environment/path.sh
+[0.329s] -- Up-to-date symlink: /home/zhettus/ros2_ws/install/tutorial_pkg/share/tutorial_pkg/environment/path.dsv
+[0.329s] -- Up-to-date symlink: /home/zhettus/ros2_ws/install/tutorial_pkg/share/tutorial_pkg/local_setup.bash
+[0.329s] -- Up-to-date symlink: /home/zhettus/ros2_ws/install/tutorial_pkg/share/tutorial_pkg/local_setup.sh
+[0.329s] -- Up-to-date symlink: /home/zhettus/ros2_ws/install/tutorial_pkg/share/tutorial_pkg/local_setup.zsh
+[0.329s] -- Up-to-date symlink: /home/zhettus/ros2_ws/install/tutorial_pkg/share/tutorial_pkg/local_setup.dsv
+[0.330s] -- Symlinking: /home/zhettus/ros2_ws/install/tutorial_pkg/share/tutorial_pkg/package.dsv
+[0.341s] -- Up-to-date symlink: /home/zhettus/ros2_ws/install/tutorial_pkg/share/ament_index/resource_index/packages/tutorial_pkg
+[0.341s] -- Up-to-date symlink: /home/zhettus/ros2_ws/install/tutorial_pkg/share/tutorial_pkg/cmake/tutorial_pkgConfig.cmake
+[0.342s] -- Up-to-date symlink: /home/zhettus/ros2_ws/install/tutorial_pkg/share/tutorial_pkg/cmake/tutorial_pkgConfig-version.cmake
+[0.342s] -- Up-to-date symlink: /home/zhettus/ros2_ws/install/tutorial_pkg/share/tutorial_pkg/package.xml
+[0.346s] Invoked command in '/home/zhettus/ros2_ws/build/tutorial_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zhettus/rosbot_ws/install/rosbot_controller:/home/zhettus/rosbot_ws/install/rosbot_utils:/home/zhettus/rosbot_ws/install/rosbot_gazebo:/home/zhettus/rosbot_ws/install/rosbot_bringup:/home/zhettus/ros2_ws/install/rosbot_utils:/home/zhettus/ros2_ws/install/rosbot_gazebo:/home/zhettus/ros2_ws/install/rosbot_controller:/home/zhettus/ros2_ws/install/rosbot_bringup:/opt/ros/jazzy /usr/bin/cmake --install /home/zhettus/ros2_ws/build/tutorial_pkg

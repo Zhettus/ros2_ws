@@ -1,0 +1,4 @@
+Invoking command in '/home/zhettus/ros2_ws/build/test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/zhettus/ros2_ws/build/test -- -j6 -l6
+Invoked command in '/home/zhettus/ros2_ws/build/test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/zhettus/ros2_ws/build/test -- -j6 -l6
+Invoking command in '/home/zhettus/ros2_ws/build/test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/zhettus/ros2_ws/build/test
+Invoked command in '/home/zhettus/ros2_ws/build/test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/zhettus/ros2_ws/build/test
